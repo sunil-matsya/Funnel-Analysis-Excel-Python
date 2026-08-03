@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Product Funnel Analysis Dashboard
 
 ## Project Overview
@@ -124,4 +123,3 @@ Product-Funnel-Analysis-Dashboard
 =======
 # Funnel-Analysis-Excel-Python
 A product funnel analysis project built using Python (Pandas, NumPy, Matplotlib) and Microsoft Excel to analyze user conversion, drop-off rates, KPIs, funnel performance, and business insights through interactive dashboards.
->>>>>>> 0583f2ef5c4408357a1b60ecfe8dc3a7dc7c2ebb
