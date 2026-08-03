@@ -100,8 +100,9 @@ Product-Funnel-Analysis-Dashboard
 ---
 
 ## Dashboard Preview
-
+###  Excel Dashboard
 ![alt text](Images/excel_dashboard.png.png)
+###  Python Dashboard
 ![alt text](Images/python_dashboard.png)
 ![alt text](Images/python_ouyput_1.png)
 ![alt text](Images/python_output_2.png)
